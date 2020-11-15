@@ -14,25 +14,26 @@ const CV = () => {
       </span>
       <span>
         <h1>Industry Experience</h1>
-        <h2> Ubisoft Montreal — Web Development Intern</h2>
-        <p className="expected-grad">Aug 2020 - Present</p>
+        <h2> Tristel Asia Limited — Administrative Assistant </h2>
+        <p className="expected-grad">May 2019 - Aug 2019</p>
         <ul>
           <li>
-            Developed a web interface in React to better connect monetization
-            specialists to secondary (in-game) stores, improving user experience
-            by facilitating version control as well as drastically simplifying
-            management of products and discounts for several productions
-            company-wide.
+            Performed upkeep and renewal of inventory related to high-tech
+            medical supplies using Microsoft Office Tools
           </li>
           <li>
-            Created new React components, fixed bugs and wrote tests using the
-            testing framework Jasmine.
+            Prepared and provided input on industry presentations before being
+            presented to potential clients
+          </li>
+          <li>
+            Optimised workplace performance by implementing tangible software
+            solutions
           </li>
         </ul>
       </span>
       <span>
         <h1>Involvement</h1>
-        <h2> McGill Simply Donate, Montreal, Canada</h2>
+        <h2> McGill Simply Donate</h2>
         <p className="expected-grad">2019 - 2020</p>
         <ul>
           <li>
@@ -45,7 +46,7 @@ const CV = () => {
           </li>
         </ul>
 
-        <h2> McGill Table Tennis Club, Montreal, Canada</h2>
+        <h2> McGill Table Tennis Club</h2>
         <p className="expected-grad">2019 - 2020</p>
         <ul>
           <li>
@@ -58,7 +59,7 @@ const CV = () => {
           </li>
         </ul>
 
-        <h2> McGill Tea Society, Montreal, Canada </h2>
+        <h2> McGill Tea Society </h2>
         <p className="expected-grad">2019 - 2020</p>
         <ul>
           <li>
