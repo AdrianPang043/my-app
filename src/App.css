@@ -1,38 +1,84 @@
+body {
+  background: #1e1e1e;
+}
+
 .App {
+  background: #1e1e1e;
+  color: #ffffff;
+  font-family: monospace;
+}
+
+.name-title {
+  font-size: 48px;
+  font-family: monospace;
   text-align: center;
+  padding-top: 10px;
+  margin: auto;
+  width: 50%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.intro {
+  font-size: 18px;
+  text-align: center;
+  margin: auto;
+  width: 50%;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.icons {
+  text-align: center;
+  padding-top: 20px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+a {
+  color:  #ffffff;
+  float:none;
+  display:inline-block;
+  zoom:1;
+}
+
+.tabs-div {
+  margin-top: 30px;;
+  width: 100%;
+}
+
+.nav-tabs {
+  margin: auto;
+  width: 100%;
+  color: #ffffff;
+  font-size: 15px;
+  font-family: monospace;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  border-bottom: 3px solid #c56313;
 }
 
-.App-link {
-  color: #61dafb;
+.nav-tabs .nav-link {
+  float: none !important;
+  display: inline-block !important;
+  zoom: 1;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.nav-tabs .nav-link.active {
+  color: #ffffff;
+  background-color: #c56313;
+  border-color: #c56313;
 }
+
+.nav-tabs .nav-link:hover {
+  color: #ffffff;
+  background-color: #c56313;
+  border-color: #c56313;
+}
+
+.tab-content {
+  margin: 10px 25px;
+}
+
+.profile-pic {
+  max-width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 20px;
+  border-radius: 50%;
+}
+

@@ -1,0 +1,30 @@
+.CV {
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 22px;
+    color: #c56313;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+span {
+    margin-left: 250px;
+}
+
+.expected-grad {
+    font-size: 15px;
+}
+
+li {
+    margin-bottom:3px;
+    margin-top: 3px;
+}
+
+div.CV {
+    max-width: 500px;
+    position: relative;
+}
