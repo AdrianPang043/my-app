@@ -30,14 +30,14 @@ body {
 }
 
 a {
-  color:  #ffffff;
-  float:none;
-  display:inline-block;
-  zoom:1;
+  color: #ffffff;
+  float: none;
+  display: inline-block;
+  zoom: 1;
 }
 
 .tabs-div {
-  margin-top: 30px;;
+  margin-top: 30px;
   width: 100%;
 }
 
@@ -74,11 +74,10 @@ a {
 }
 
 .profile-pic {
-  max-width: 200px;
+  max-height: 200px;
   display: block;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 20px;
   border-radius: 50%;
 }
-

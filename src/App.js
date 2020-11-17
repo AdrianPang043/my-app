@@ -23,10 +23,10 @@ const App = () => {
         more about Web and Mobile Development. I enjoy learning new languages.
       </p>
       <div className="icons">
-        <a href="https://www.linkedin.com/in/adrian-p-53b43719b/">
+        <a href="https://www.linkedin.com/in/adrianpang6/">
           <FontAwesomeIcon icon={["fab", "linkedin"]} size="3x" />
         </a>{" "}
-        <a href="https://github.com/AdrianPang043/">
+        <a href="https://github.com/adrianpang6">
           <FontAwesomeIcon icon={["fab", "github"]} size="3x" />
         </a>{" "}
         <a href="mailto:adrianpang6@gmail.com">
