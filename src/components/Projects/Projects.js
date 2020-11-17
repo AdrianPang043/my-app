@@ -10,7 +10,7 @@ const Projects = () => {
       <div class = "proj">
         <Card
           source={p1}
-          link="#"
+          link="https://github.com/adrianpang6/polynomial-calculator"
           title="Polynomial Calculator - Java"
           desc="Demonstrated knowledge of implementing time-efficient data structures and algorithms utilising Java."
         />
